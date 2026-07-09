@@ -1,33 +1,29 @@
-<div align="center">
+<h1 align="center">Hi there, I'm Nithish K 👋</h1>
+<h3 align="center">Welcome to my GitHub Profile</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Nithish%20K&fontSize=52&fontColor=ffffff&desc=Electronics%20%26%20Communication%20Engineering&descSize=18&descAlignY=65&animation=fadeIn" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Electronics+%26+Communication+Engineering+Student;IoT+%26+Embedded+Systems+Enthusiast;Learning+Python+%2C+Web+Dev+%26+Networking" alt="Typing SVG" />
+</p>
 
-<br>
+<p align="center">
+  <a href="https://linkedin.com/in/nithish-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:nithishpuvi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nithish-profile)
-[![Email](https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:nithishpuvi@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+919047551083)
+---
 
-</div>
+### 🚀 About Me
+I'm an Electronics and Communication Engineering student at R.M.K. Engineering College, specializing in Advanced Communication Technology. I enjoy building IoT and embedded systems projects, and I'm expanding into software development and web technologies.
 
-<br>
+- 🔭 Currently working on: IoT & embedded systems projects
+- 🌱 Currently learning: Python, HTML/CSS, SQL
+- 💬 Ask me about: Computer Networks, IoT, Arduino, TCP/IP
+- 📫 Reach me: nithishpuvi@gmail.com
+- 🎓 Studying: B.E. in ECE (Advanced Communication Technology) — Class of 2027
 
-## Profile
+---
 
-Electronics and Communication Engineering student at R.M.K. Engineering College, specializing in Advanced Communication Technology. Focused on IoT and embedded systems — building hardware that senses, monitors, and reports in real time. Expanding into software development and networking.
-
-<br>
-
-## Education
-
-| Institution | Program | Duration |
-|---|---|---|
-| R.M.K. Engineering College | B.E. Electronics & Communication Engineering — Advanced Communication Technology | 2023 – 2027 |
-| Velammal Matric Higher Secondary School | Grade 12 | 2022 – 2023 |
-
-<br>
-
-## Experience
+### 💼 Experience
 
 **Telecom and Networking Trainee** — BSNL (Bharat Sanchar Nigam Limited) · *Jun 2025*
 - Studied telecommunication system architectures, including core switching networks and fiber-optic backbones
@@ -35,56 +31,53 @@ Electronics and Communication Engineering student at R.M.K. Engineering College,
 - Configured and monitored industrial routers, switches, and structured LAN cabling
 - Explored telemetry workflows, local area routing, and wireless communication paradigms
 
-<br>
+---
 
-## Projects
+### 💡 Featured Projects
 
-**Smart Irrigation System**
-Automated IoT irrigation framework using soil moisture and DHT sensors, with Arduino-driven control logic and real-time telemetry streaming to reduce manual monitoring.
+**🌱 Smart Irrigation System**
+IoT-based automated irrigation using soil moisture & DHT sensors, with Arduino-driven control logic and real-time telemetry streaming.
 
-**IoT-Based Smart Disaster Alert System for Smart Cities**
-End-to-end disaster monitoring system built on Arduino UNO and an ESP8266 Wi-Fi module, with real-time flood/fire threshold detection and instant alerts delivered via the Blynk IoT cloud platform.
+**🚨 IoT-Based Smart Disaster Alert System**
+End-to-end disaster monitoring system using Arduino UNO, ESP8266 Wi-Fi module, and water/gas sensors — with real-time flood/fire detection and instant alerts via the Blynk IoT platform.
 
-<br>
+---
 
-## Technical Skills
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode,arduino&theme=dark" />
-</div>
-
-<br>
+### 🛠️ Skills
 
 **Languages** · Python, HTML/CSS, SQL
 **Tools & Platforms** · Git, GitHub, VS Code, Arduino IDE, Blynk Cloud
 **Core Knowledge** · Computer Networks, TCP/IP, UDP Routing
 **Areas of Interest** · Software Development, Embedded Systems
 
-<br>
+---
 
-## Certifications
+### 📜 Certifications
+- NPTEL — The Joy of Computing Using Python
+- Infosys Springboard — Artificial Intelligence Foundation
+- Infosys Springboard — Internet of Things Foundation
 
-- NPTEL — *The Joy of Computing Using Python*
-- Infosys Springboard — *Artificial Intelligence Foundation*
-- Infosys Springboard — *Internet of Things Foundation*
+---
 
-<br>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nithish05555&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nithish05555&theme=radical" height="165"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithish05555&layout=compact&theme=radical" />
+</p>
 
-## GitHub Analytics
+---
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nithish05555&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nithish05555&theme=tokyonight&hide_border=true" height="165"/>
-</div>
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nithish05555&theme=react-dark" width="100%"/>
+</p>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithish05555&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+---
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=footer" width="100%"/>
-
-<div align="center">
-<sub>Thank you for visiting my profile</sub>
-</div>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/nithish05555/count.svg" alt="visitor badge"/>
+</p>
+<p align="center"><i>Thanks for stopping by! ⭐ Feel free to explore my repositories.</i></p>
