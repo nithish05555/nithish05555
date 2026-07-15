@@ -46,9 +46,9 @@ End-to-end disaster monitoring system using Arduino UNO, ESP8266 Wi-Fi module, a
 ### 🛠️ Skills
 
 **Languages** · Python, HTML/CSS, SQL
-**Tools & Platforms** · Git, GitHub, VS Code, Arduino IDE, Blynk Cloud
+**Tools & Platforms** ·GitHub, VS Code
 **Core Knowledge** · Computer Networks, TCP/IP, UDP Routing
-**Areas of Interest** · Software Development, Embedded Systems
+**Areas of Interest** · Software Development, iot
 
 ---
 
